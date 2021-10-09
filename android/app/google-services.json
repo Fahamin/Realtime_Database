@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "456365913400",
+    "firebase_url": "https://alienwallpaper-56f9d.firebaseio.com",
+    "project_id": "alienwallpaper-56f9d",
+    "storage_bucket": "alienwallpaper-56f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456365913400:android:2eb527416f3929c13d7dcd",
+        "android_client_info": {
+          "package_name": "com.fahamin.flutter_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456365913400-hg1vajalffb3dkah299deh30c3862qf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjwIl3zf8rarDjBUwCHrByHxta7tI1Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456365913400-hg1vajalffb3dkah299deh30c3862qf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456365913400:android:955672c778301c063d7dcd",
+        "android_client_info": {
+          "package_name": "com.wallpaper.wally.alien.kodiapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456365913400-3kd2c3i3nq1jds73asjl9iujvqpogbnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallpaper.wally.alien.kodiapps",
+            "certificate_hash": "b852f338e814b5f83e39a7ba1fe54b07f20a8e18"
+          }
+        },
+        {
+          "client_id": "456365913400-hg1vajalffb3dkah299deh30c3862qf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjwIl3zf8rarDjBUwCHrByHxta7tI1Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456365913400-hg1vajalffb3dkah299deh30c3862qf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
