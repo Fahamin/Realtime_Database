@@ -21,6 +21,7 @@ class _HomePageState extends State<HomePage> {
   void printFirebase(){
     databaseRef.once().then((DataSnapshot snapshot) {
       print('Data : ${snapshot.value}');
+      textcontroller.text = '${snapshot.value}';
     });
   }
 
